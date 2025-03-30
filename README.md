@@ -14,3 +14,7 @@ abcdef
 am3287
 ## Favorite Professor
 ufildbfuil
+## EUID
+
+Sakar
+$(Sakar)
